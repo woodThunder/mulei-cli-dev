@@ -1,6 +1,6 @@
 {
     "name": "@mulei-cli-dev/core",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "> TODO: description",
     "author": "fh_xujw <fh_xujw@yonyou.com>",
     "homepage": "",
@@ -24,7 +24,7 @@
         "test": "echo \"Error: run tests from root\""
     },
     "dependencies": {
-        "@mulei-cli-dev/utils": "^1.0.1"
+        "@mulei-cli-dev/utils": "^1.0.2"
     },
     "gitHead": "71b4af859b14061cad042c26a070b6f7b2b8d2c0"
 }
